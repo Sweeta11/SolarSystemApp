@@ -1,0 +1,6 @@
+Uranus - Avg Temp: 76°C
+Neptune - Avg Temp: 55°C
+Jupiter - Avg Temp: 165°C
+Mars - Avg Temp: 210°C
+Saturn - Avg Temp: 134°C
+Earth - Avg Temp: 288°C

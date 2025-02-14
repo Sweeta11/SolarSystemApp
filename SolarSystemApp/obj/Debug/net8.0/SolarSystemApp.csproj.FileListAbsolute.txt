@@ -1,0 +1,17 @@
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\bin\Debug\net8.0\SolarSystemApp.exe
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\bin\Debug\net8.0\SolarSystemApp.deps.json
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\bin\Debug\net8.0\SolarSystemApp.runtimeconfig.json
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\bin\Debug\net8.0\SolarSystemApp.dll
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\bin\Debug\net8.0\SolarSystemApp.pdb
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\SolarSystemApp.csproj.AssemblyReference.cache
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\SolarSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\SolarSystemApp.AssemblyInfoInputs.cache
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\SolarSystemApp.AssemblyInfo.cs
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\SolarSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\SolarSys.18395E86.Up2Date
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\SolarSystemApp.dll
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\refint\SolarSystemApp.dll
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\SolarSystemApp.pdb
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\SolarSystemApp.genruntimeconfig.cache
+C:\Users\HP\Tenforce-Sweeta\SolarSystemApp\obj\Debug\net8.0\ref\SolarSystemApp.dll
